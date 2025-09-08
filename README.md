@@ -1,3 +1,3 @@
 # learn-shell
 
-This is the first program
+This is my first commit
